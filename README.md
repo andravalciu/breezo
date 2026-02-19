@@ -6,11 +6,11 @@ A modern weather application built with React, TypeScript and Vite.
 
 ## 🚀 Tech Stack
 
-- ⚛️ React
-- 🟦 TypeScript
-- ⚡ Vite
-- 🎨 Tailwind CSS
-- 🧩 shadcn/ui
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn/ui
 
 ---
 
