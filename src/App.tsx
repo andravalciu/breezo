@@ -5,8 +5,8 @@
 /**
  * Components
  */
-import { ThemeProvider } from "@/compenents/ThemeProvider";
-import { TopAppBar } from "@/compenents/TopAppBar";
+import { ThemeProvider } from "@/components/ThemeProvider";
+import { TopAppBar } from "@/components/TopAppBar";
 
 export const App = () => {
   return  <ThemeProvider>
